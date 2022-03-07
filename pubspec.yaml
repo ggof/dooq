@@ -1,0 +1,15 @@
+name: dooq
+description: Dart Object-Oriented Querying
+version: 0.0.1
+homepage: https://github.com/ggof/dooq
+
+environment:
+  sdk: '>=2.14.0 <3.0.0'
+
+dependencies:
+  postgres:
+  uuid:
+
+dev_dependencies:
+  test:
+  test_coverage:
